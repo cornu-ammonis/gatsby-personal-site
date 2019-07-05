@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'React Portfolio by Andrew Jones',
+  subtitle: 'Startup CTO, Cofounder, and Javascript dev. Former neuroscience researcher at Emory University.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -24,11 +24,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Andrew Jones',
+    photo: '/photo.png',
+    bio: 'Startup CTO, Cofounder, and Javascript dev. Former neuroscience researcher at Emory University.',
     contacts: {
-      email: '#',
+      email: 'andrewjones232@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
