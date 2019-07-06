@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'andrewcjones.dev',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'React Portfolio by Andrew Jones',
+  subtitle: 'Startup Cofounder & CTO. Javascript + React. Former neuroscience researcher at Emory University.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-124019593-2',
   menu: [
     {
       label: 'Articles',
@@ -24,14 +24,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Andrew Jones',
+    photo: '/photo.png',
+    bio: 'Startup Cofounder & CTO. Javascript + React. Former neuroscience researcher at Emory University.',
+    // TODO: remove twitter, rss, telegram, vkontakte from pages, tests, and fixtures
     contacts: {
-      email: '#',
+      email: 'andrewjones232@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'cornu-ammonis',
       rss: '#',
       vkontakte: '#'
     }
