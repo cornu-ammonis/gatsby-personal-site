@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'React Portfolio by Andrew Jones',
-  subtitle: 'Startup CTO, Cofounder, and Javascript dev. Former neuroscience researcher at Emory University.',
+  subtitle: 'Startup Cofounder & CTO. Javascript + React. Former neuroscience researcher at Emory University.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,7 +26,9 @@ module.exports = {
   author: {
     name: 'Andrew Jones',
     photo: '/photo.png',
-    bio: 'Startup CTO, Cofounder, and Javascript dev. Former neuroscience researcher at Emory University.',
+    bio: 'Startup Cofounder & CTO. Javascript + React. Former neuroscience researcher at Emory University.',
+    
+    // TODO: remove twitter, rss, telegram, vkontakte from pages, tests, and fixtures
     contacts: {
       email: 'andrewjones232@gmail.com',
       telegram: '#',
